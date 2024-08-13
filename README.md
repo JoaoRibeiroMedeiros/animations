@@ -1,0 +1,2 @@
+# animations
+genAI animation experiments
